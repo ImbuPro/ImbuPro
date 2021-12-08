@@ -1,5 +1,4 @@
 - 👋 Hey I'm Imbu ! c:
 - 👀 I’m interested in IT 
 - 🌱 I’m currently learning developpement
-- 💞️ I am looking for an internship in a company
-- 📫 You can reach me on discord at this : Imbu#6938 
+
